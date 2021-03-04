@@ -2,7 +2,7 @@
 Remove the WeChat public account bottom ad
 by Choler
 QX:
-^https?:\/\/api\.instagram\.com url script-response-body https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/Wechat.js
+^https?:\/\/api\.instagram\.com url script-response-body https://raw.githubusercontent.com/yibin001/qx/main/ins.js
 */
 
 var obj = JSON.parse($response.body);
